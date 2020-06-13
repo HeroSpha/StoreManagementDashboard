@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xiO94Jp+OhA37OspF5sqRQV77uD+ggCqE+1d3AYEM2/LRfUlMZx1qxAg9Kg1KsmMXMveWEkYngHHTUsRUzV09A==",
+  "success": true,
+  "projectFilePath": "E:\\Apps\\Obrigado Project\\StoreManagementDashboard\\Dashboard.Shared\\Dashboard.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aorous 7\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Aorous 7\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Aorous 7\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
