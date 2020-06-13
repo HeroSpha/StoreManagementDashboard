@@ -1,0 +1,9 @@
+E:\Apps\Obrigado Project\StoreManagementDashboard\Dashboard.Shared\bin\Release\netstandard2.0\Dashboard.Shared.deps.json
+E:\Apps\Obrigado Project\StoreManagementDashboard\Dashboard.Shared\bin\Release\netstandard2.0\Dashboard.Shared.dll
+E:\Apps\Obrigado Project\StoreManagementDashboard\Dashboard.Shared\bin\Release\netstandard2.0\Dashboard.Shared.pdb
+E:\Apps\Obrigado Project\StoreManagementDashboard\Dashboard.Shared\obj\Release\netstandard2.0\Dashboard.Shared.csprojAssemblyReference.cache
+E:\Apps\Obrigado Project\StoreManagementDashboard\Dashboard.Shared\obj\Release\netstandard2.0\Dashboard.Shared.AssemblyInfoInputs.cache
+E:\Apps\Obrigado Project\StoreManagementDashboard\Dashboard.Shared\obj\Release\netstandard2.0\Dashboard.Shared.AssemblyInfo.cs
+E:\Apps\Obrigado Project\StoreManagementDashboard\Dashboard.Shared\obj\Release\netstandard2.0\Dashboard.Shared.csproj.CoreCompileInputs.cache
+E:\Apps\Obrigado Project\StoreManagementDashboard\Dashboard.Shared\obj\Release\netstandard2.0\Dashboard.Shared.dll
+E:\Apps\Obrigado Project\StoreManagementDashboard\Dashboard.Shared\obj\Release\netstandard2.0\Dashboard.Shared.pdb

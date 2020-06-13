@@ -5,6 +5,7 @@ import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
 import { ButtonsModule } from 'ngx-bootstrap/buttons';
 import { CatalogsComponent } from './catalogs.component';
 import { CatalogRoutingModule } from './catalog-routing.module';
+import { AddCatalogComponent } from './addcatalog.component';
 
 @NgModule({
   imports: [
@@ -14,6 +15,6 @@ import { CatalogRoutingModule } from './catalog-routing.module';
     BsDropdownModule,
     ButtonsModule.forRoot()
   ],
-  declarations: [ CatalogsComponent ]
+  declarations: [ CatalogsComponent, AddCatalogComponent]
 })
 export class CatalogModule { }

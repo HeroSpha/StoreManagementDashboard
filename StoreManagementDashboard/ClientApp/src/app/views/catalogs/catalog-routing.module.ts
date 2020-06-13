@@ -20,6 +20,13 @@ const routes: Routes =  [
         data: {
           title: 'All Sales'
         }
+      },
+      {
+        path: 'addcatalog',
+        component: AddCatalogComponent,
+        data: {
+          title: 'Add Catalog'
+        }
       }
     ]
   }
